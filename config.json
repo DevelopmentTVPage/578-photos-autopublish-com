@@ -1,0 +1,15 @@
+{
+    "title": "Photos Autopublish Test",
+    "baseURL": "https:\/\/photos.autopublish.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759121",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "autopublish.com"
+    }
+}
